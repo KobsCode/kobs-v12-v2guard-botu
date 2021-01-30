@@ -1,1 +1,5 @@
-# kobs-v12-v2guard-botu
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
